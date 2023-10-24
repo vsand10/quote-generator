@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quote-generator/static/css/main.f5205074.css",
+    "main.js": "/quote-generator/static/js/main.95e6108e.js",
+    "static/media/twitter.svg": "/quote-generator/static/media/twitter.ca88c85ba7e5c065b64e433bc680e1f6.svg",
+    "index.html": "/quote-generator/index.html",
+    "static/media/whiteyoutube.svg": "/quote-generator/static/media/whiteyoutube.1206c91078626f57d8c2b71b590f4f2d.svg",
+    "main.f5205074.css.map": "/quote-generator/static/css/main.f5205074.css.map",
+    "main.95e6108e.js.map": "/quote-generator/static/js/main.95e6108e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5205074.css",
+    "static/js/main.95e6108e.js"
+  ]
+}
